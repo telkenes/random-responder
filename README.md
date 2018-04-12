@@ -16,5 +16,5 @@ response.get("this should be a message", function(err, daresponse) {
 
 __Extra Information__
 * by telk
-* give credit to NicksWorld#7453 😉
+* give some credit to NicksWorld#7453 for helping me learn how to make apis 😉
 * yay a npm package that allows lonely people to talk to. . . lmao
